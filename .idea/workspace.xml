@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db5c8d5-dee1-4a47-b968-b068e8144591" name="Changes" comment="第一次商城项目基础提交" />
+    <list default="true" id="3db5c8d5-dee1-4a47-b968-b068e8144591" name="Changes" comment="api first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +73,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "jdk.selected.JAVA_MODULE": "18",
     "last_opened_file_path": "/Users/lhx/IdeaProjects/hxmall/api/src/main/java/com/shirley/hxmall/config",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,8 +83,9 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
-    "spring.configuration.checksum": "3cc4913015d312f31da9f641271b14a3"
+    "settings.editor.selected.configurable": "vcs.Git",
+    "show.run.dashboard.notification": "false",
+    "spring.configuration.checksum": "a43369d4ba293046d61593af6ec44916"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -113,18 +118,9 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ApiApplication">
-    <configuration name="UserDAOTest.queryUserByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dao" />
-      <option name="MAIN_CLASS_NAME" value="dao.UserDAOTest" />
-      <option name="METHOD_NAME" value="queryUserByName" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="ApiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shirley.hxmall.ApiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,11 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.UserDAOTest.queryUserByName" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -156,6 +147,10 @@
       <workItem from="1689487485534" duration="54908000" />
       <workItem from="1690343728217" duration="4628000" />
       <workItem from="1690349374203" duration="6355000" />
+      <workItem from="1690355750904" duration="719000" />
+      <workItem from="1690356489156" duration="876000" />
+      <workItem from="1690357370033" duration="1621000" />
+      <workItem from="1690358997084" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="第一次商城项目基础提交">
       <created>1690298377622</created>
@@ -178,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690349490689</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次商城项目基础提交">
+      <created>1690355795357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690355795357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,11 +238,6 @@
             </State>
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="fbc2942b-2b8c-467e-9f52-eb6242f1b289" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
