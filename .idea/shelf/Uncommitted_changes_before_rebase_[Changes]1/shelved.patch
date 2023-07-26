@@ -1,0 +1,184 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"3db5c8d5-dee1-4a47-b968-b068e8144591\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/ApiApplication.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/config/InterceptorConfig.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/config/MyPayConfig.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/config/SwaggerConfig.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/GoodsController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/IndexController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/OrderController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/PayController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/ProductController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/ShopcartController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/UserAddrController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/UserController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/interceptor/CheckTokenInterceptor.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/websocket/WebSocketConfig.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/websocket/WebSocketServer.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/main/resources/application.properties\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/api/src/test/java/com/shirley/hxmall/ApiApplicationTests.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Category.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/CategoryVO.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/IndexImg.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/OrderItem.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Orders.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/OrdersVO.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Product.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductComments.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductCommentsVO.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductImg.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductParams.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductSku.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductVO.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ShoppingCart.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ShoppingCartVO.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/UserAddr.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/UserLoginHistory.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Users.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/beans/src/test/java/com/shirley/AppTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/utils/Base64Utils.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/utils/MD5Utils.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/utils/PageHelper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/vo/ResStatus.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/vo/ResultVO.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/common/src/test/java/com/shirley/AppTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/CategoryMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/IndexImgMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/OrderItemMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/OrdersMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductCommentsMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductImgMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductParamsMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductSkuMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ShoppingCartMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/UserAddrMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/UserLoginHistoryMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/UsersMapper.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/general/GeneralDAO.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/application.yml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/generatorConfig.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/CategoryMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/IndexImgMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/OrderItemMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/OrdersMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductCommentsMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductImgMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductParamsMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductSkuMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/ShoppingCartMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/UserAddrMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/UserLoginHistoryMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mapper/src/main/resources/mappers/UsersMapper.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/CategoryService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/IndexImgService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/OrderService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/ProductCommontsService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/ProductService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/ShoppingCartService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/UserAddrService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/UserService.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/CategoryServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/IndexImgServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/OrderServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/ProductCommontsServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/ProductServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/ShoppingCartServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/UserAddrServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/UserServiceImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/service/src/test/java/com/shirley/AppTest.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"mybatis-mapper\" />\n        <option value=\"JUnit5 Test Class\" />\n        <option value=\"mybatis-config\" />\n        <option value=\"Interface\" />\n        <option value=\"Enum\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/api\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"useMavenConfig\" value=\"true\" />\n      </MavenGeneralSettings>\n    </option>\n    <option name=\"importingSettings\">\n      <MavenImportingSettings>\n        <option name=\"jdkForImporter\" value=\"18\" />\n      </MavenImportingSettings>\n    </option>\n  </component>\n  <component name=\"MavenRunner\">\n    <option name=\"jreName\" value=\"18\" />\n    <option name=\"skipTests\" value=\"true\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2RjpW6b0LeUzRni2mtHAV2alFXO\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"RequestMappingsPanelOrder0\": \"0\",\n    \"RequestMappingsPanelOrder1\": \"1\",\n    \"RequestMappingsPanelWidth0\": \"75\",\n    \"RequestMappingsPanelWidth1\": \"75\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\": \"JUnit5\",\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5\": \"\",\n    \"jdk.selected.JAVA_MODULE\": \"corretto-1.8\",\n    \"last_opened_file_path\": \"/Users/lhx/IdeaProjects/hxmall/api/src/main/java/com/shirley/hxmall/config\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"project.structure.last.edited\": \"Modules\",\n    \"project.structure.proportion\": \"0.17\",\n    \"project.structure.side.proportion\": \"0.2\",\n    \"settings.editor.selected.configurable\": \"build.tools\",\n    \"spring.configuration.checksum\": \"3cc4913015d312f31da9f641271b14a3\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/config\" />\n      <recent name=\"$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall\" />\n      <recent name=\"$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/utils\" />\n      <recent name=\"$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity\" />\n      <recent name=\"$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl\" />\n    </key>\n    <key name=\"CreateTestDialog.Recents.Supers\">\n      <recent name=\"\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/mapper/src/main/resources\" />\n      <recent name=\"$PROJECT_DIR$/mapper/src/main/resources/mappers\" />\n    </key>\n    <key name=\"CreateTestDialog.RecentsKey\">\n      <recent name=\"com.shirley.hxmall.dao\" />\n      <recent name=\"com.shirley.hxmall\" />\n    </key>\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"dao\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Spring Boot.ApiApplication\">\n    <configuration name=\"UserDAOTest.queryUserByName\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"api\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"dao.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"dao\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"dao.UserDAOTest\" />\n      <option name=\"METHOD_NAME\" value=\"queryUserByName\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"ApiApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\n      <module name=\"api\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.shirley.hxmall.ApiApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JUnit.UserDAOTest.queryUserByName\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"3db5c8d5-dee1-4a47-b968-b068e8144591\" name=\"Changes\" comment=\"\" />\n      <created>1687773375927</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1687773375927</updated>\n      <workItem from=\"1687773377034\" duration=\"675000\" />\n      <workItem from=\"1687774058760\" duration=\"9685000\" />\n      <workItem from=\"1688376737313\" duration=\"41132000\" />\n      <workItem from=\"1689487485534\" duration=\"52324000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b20e51eddd84bfac56c435c0722c73d2dd9cab39)
++++ b/.idea/workspace.xml	(date 1690346938321)
+@@ -4,112 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3db5c8d5-dee1-4a47-b968-b068e8144591" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/ApiApplication.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/config/InterceptorConfig.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/config/MyPayConfig.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/config/SwaggerConfig.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/GoodsController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/IndexController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/OrderController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/PayController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/ProductController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/ShopcartController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/UserAddrController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/controller/UserController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/interceptor/CheckTokenInterceptor.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/websocket/WebSocketConfig.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/shirley/hxmall/websocket/WebSocketServer.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/main/resources/application.properties" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/api/src/test/java/com/shirley/hxmall/ApiApplicationTests.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Category.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/CategoryVO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/IndexImg.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/OrderItem.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Orders.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/OrdersVO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Product.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductComments.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductCommentsVO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductImg.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductParams.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductSku.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ProductVO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ShoppingCart.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/ShoppingCartVO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/UserAddr.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/UserLoginHistory.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/main/java/com/shirley/hxmall/entity/Users.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/beans/src/test/java/com/shirley/AppTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/utils/Base64Utils.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/utils/MD5Utils.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/utils/PageHelper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/vo/ResStatus.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/shirley/hxmall/vo/ResultVO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/common/src/test/java/com/shirley/AppTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/CategoryMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/IndexImgMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/OrderItemMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/OrdersMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductCommentsMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductImgMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductParamsMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ProductSkuMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/ShoppingCartMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/UserAddrMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/UserLoginHistoryMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/dao/UsersMapper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/com/shirley/hxmall/general/GeneralDAO.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/application.yml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/generatorConfig.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/CategoryMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/IndexImgMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/OrderItemMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/OrdersMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductCommentsMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductImgMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductParamsMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/ProductSkuMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/ShoppingCartMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/UserAddrMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/UserLoginHistoryMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mapper/src/main/resources/mappers/UsersMapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/CategoryService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/IndexImgService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/OrderService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/ProductCommontsService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/ProductService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/ShoppingCartService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/UserAddrService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/UserService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/CategoryServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/IndexImgServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/ProductCommontsServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/ProductServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/ShoppingCartServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/UserAddrServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/shirley/hxmall/service/impl/UserServiceImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/service/src/test/java/com/shirley/AppTest.java" afterDir="false" />
++    <list default="true" id="3db5c8d5-dee1-4a47-b968-b068e8144591" name="Changes" comment="第一次商城项目基础提交">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -177,10 +73,11 @@
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.17",
+     "project.structure.side.proportion": "0.2",
+-    "settings.editor.selected.configurable": "build.tools",
++    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+     "spring.configuration.checksum": "3cc4913015d312f31da9f641271b14a3"
+   }
+ }]]></component>
+@@ -248,15 +145,44 @@
+       <workItem from="1687773377034" duration="675000" />
+       <workItem from="1687774058760" duration="9685000" />
+       <workItem from="1688376737313" duration="41132000" />
+-      <workItem from="1689487485534" duration="52324000" />
++      <workItem from="1689487485534" duration="54908000" />
++      <workItem from="1690343728217" duration="3047000" />
++    </task>
++    <task id="LOCAL-00001" summary="第一次商城项目基础提交">
++      <created>1690298377622</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1690298377622</updated>
++    </task>
++    <task id="LOCAL-00002" summary="第一次商城项目基础提交">
++      <created>1690299018417</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1690299018417</updated>
+     </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="第一次商城项目基础提交" />
++    <option name="LAST_COMMIT_MESSAGE" value="第一次商城项目基础提交" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
